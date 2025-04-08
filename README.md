@@ -1,6 +1,6 @@
 # Command Line Calculator
 
-## Definition
+## Description
 This program uses python to create a calculator. This calculator is accessed with the IDE command line. 
 
 ## Goal
